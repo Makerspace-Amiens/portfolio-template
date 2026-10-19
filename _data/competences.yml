@@ -24,59 +24,27 @@ competences:
     nom: "Analyser un besoin et rédiger un cahier des charges"
     court: "Besoin & CdC"       # libellé court affiché sur le radar (optionnel)
     description: "Identifier les attentes, les contraintes et les critères de validation d'un projet."
-    niveau: 2                   # mon niveau actuel (0 à niveau_max)
+    niveau: 1                   # mon niveau actuel (0 à niveau_max)
     objectif: 3                 # niveau visé en fin d'année (optionnel)
     justification: |
-      Sur le projet **Robot suiveur de ligne**, j'ai rédigé le cahier des charges
-      avec mon équipe et défini les critères de réussite (vitesse, précision).
-      Je dois encore progresser sur la priorisation des exigences.
-    autres_preuves:
-      - titre: "Atelier Méthodologie de projet — séance 2"
+      Pourquoi je m'attribue ce niveau, en m'appuyant sur des faits :
+      ce que j'ai fait, comment, et ce qu'il me reste à travailler.
+    autres_preuves:             # preuves hors du site (stage, certification…), optionnel
+      - titre: "Atelier Méthodologie de projet"
         lien: "https://doc.makerspace-amiens.fr/workshops/methodologie-de-projet/"
         description: "Cahier des charges rendu et évalué."
         icon: graduation-cap
 
   - id: C2
-    nom: "Concevoir une solution technique"
+    nom: "Concevoir et prototyper une solution technique"
     court: "Conception"
-    description: "Proposer, comparer et dimensionner des solutions répondant au besoin."
-    niveau: 2
-    objectif: 3
-    justification: |
-      Conception CAO du châssis et choix des moteurs en comparant trois solutions.
-
-  - id: C3
-    nom: "Prototyper et fabriquer"
-    court: "Prototypage"
-    description: "Réaliser un prototype avec les moyens du MakerSpace (impression 3D, découpe laser, électronique)."
-    niveau: 3
-    objectif: 3
-    justification: |
-      Impression 3D et découpe laser des pièces, montage et câblage du robot.
-    autres_preuves:
-      - titre: "Certification sécurité MakerSpace"
-        description: "Formé à la découpeuse laser et aux imprimantes 3D."
-        icon: shield-check
-
-  - id: C4
-    nom: "Tester, mesurer et valider"
-    court: "Tests"
-    description: "Mettre en place des essais, exploiter les mesures et conclure."
+    description: "Proposer, comparer et réaliser des solutions répondant au besoin."
     niveau: 1
     objectif: 3
 
-  - id: C5
-    nom: "Travailler en équipe et gérer un projet"
-    court: "Équipe & projet"
-    description: "S'organiser, planifier, communiquer et utiliser les outils de gestion de projet."
-    niveau: 2
-    objectif: 3
-
-  - id: C6
+  - id: C3
     nom: "Communiquer et documenter"
     court: "Communication"
     description: "Rendre un travail compréhensible et transmissible, à l'écrit comme à l'oral."
-    niveau: 2
-    objectif: 4
-    justification: |
-      Ce site lui-même : documentation des projets au fil de l'eau et journal de bord.
+    niveau: 1
+    objectif: 3

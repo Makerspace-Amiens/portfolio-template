@@ -1,5 +1,6 @@
 # =====================================================================
-#  CONFIGURATION DE TON SITE — à personnaliser (étape 1 du guide)
+#  CONFIGURATION DE TON SITE — à personnaliser (partie 3 du guide)
+#  Guide : https://makerspace-amiens.github.io/portfolio-theme/docs/guide-etudiant/
 #  ⚠️ Respecte l'indentation (2 espaces, jamais de tabulation).
 #  ⚠️ Après chaque modification de ce fichier, attends que GitHub
 #     reconstruise le site (onglet "Actions", ~1 min).
@@ -69,8 +70,7 @@ kramdown:
 
 exclude:
   - README.md
-  - GUIDE-ETUDIANT.md
-  - GUIDE-ENSEIGNANT.md
+  - LICENSE
   - Gemfile
   - Gemfile.lock
   - vendor

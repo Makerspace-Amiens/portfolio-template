@@ -4,7 +4,7 @@
 #  icon = nom d'icône Lucide : https://lucide.dev/icons/
 # =====================================================================
 
-pdf: "/assets/cv/cv.pdf"          # dépose ton CV PDF ici, ou supprime cette ligne
+# pdf: "/assets/cv/cv.pdf"    # dépose ton CV dans assets/cv/ puis décommente : un bouton « Télécharger mon CV » apparaît
 
 sections:
   - titre: "Formation"
@@ -14,10 +14,6 @@ sections:
         titre: "Cycle ingénieur — I1"
         organisme: "UniLaSalle Amiens"
         lieu: "Amiens"
-        description: "Projets au MakerSpace, robotique, prototypage rapide."
-      - periode: "2024 — 2026"
-        titre: "Classe préparatoire / BUT / Bachelor…"
-        organisme: "Établissement"
 
   - titre: "Expériences"
     icon: briefcase
@@ -29,18 +25,11 @@ sections:
           - Mission principale
           - Ce que j'ai appris
 
-  - titre: "Engagements"
-    icon: users
-    elements:
-      - periode: "2026"
-        titre: "Membre du club robotique"
-        organisme: "UniLaSalle Amiens"
-
 langues:
   - langue: "Français"
     niveau: "Langue maternelle"
   - langue: "Anglais"
     niveau: "B2"
 
-outils: ["Fusion 360", "KiCad", "Arduino / ESP32", "Python", "Git & GitHub"]
-interets: ["Robotique", "Impression 3D", "Escalade"]
+outils: ["Fusion 360", "KiCad", "Python"]
+interets: ["Robotique", "Impression 3D"]

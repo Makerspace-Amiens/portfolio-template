@@ -2,6 +2,8 @@
 
 Modèle de site personnel pour les élèves ingénieurs : **accueil, qui suis-je + CV, projets en cartes, blog / journal de bord, documentation avec table des matières, et radar de compétences justifiées par les projets.**
 
+📖 **Guide pas à pas, démonstration et boîte à outils : <https://makerspace-amiens.github.io/portfolio-theme/>**
+
 ## Démarrer en 3 minutes
 
 1. **Use this template → Create a new repository**, nommé `ton-pseudo.github.io`, public.
@@ -9,9 +11,6 @@ Modèle de site personnel pour les élèves ingénieurs : **accueil, qui suis-je
 3. Modifie `_config.yml` (ton nom, ton pseudo dans `url`) → **Commit**.
 
 Ton site est en ligne à `https://ton-pseudo.github.io` après 1 à 2 minutes.
-
-👉 **Guide complet pas à pas : [GUIDE-ETUDIANT.md](GUIDE-ETUDIANT.md)**
-👉 Équipe pédagogique : [GUIDE-ENSEIGNANT.md](GUIDE-ENSEIGNANT.md)
 
 ## Où écrire quoi ?
 
@@ -25,8 +24,6 @@ Ton site est en ligne à `https://ton-pseudo.github.io` après 1 à 2 minutes.
 | Écrire une doc | un fichier dans `_docs/` |
 | Me positionner sur mes compétences | `_data/competences.yml` |
 
-## Briques disponibles
-
-Encadrés, icônes [Lucide](https://lucide.dev/icons/), graphiques [Chart.js](https://www.chartjs.org/docs/latest/), diagrammes [Mermaid](https://mermaid.js.org/intro/), modèles 3D [model-viewer](https://modelviewer.dev/docs/), schémas KiCad [KiCanvas](https://kicanvas.org/), vidéos. Exemples dans la page **Docs → Boîte à outils du site**.
+Chaque dossier contient un exemple à copier ou à remplacer.
 
 Thème : [`Makerspace-Amiens/portfolio-theme`](https://github.com/Makerspace-Amiens/portfolio-theme) (Jekyll + [Bulma](https://bulma.io/)), licence MIT.
