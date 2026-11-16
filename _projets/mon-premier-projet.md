@@ -25,7 +25,7 @@ Les grandes étapes, les choix faits et pourquoi.
 
 ## Résultats
 
-Photos, mesures, graphiques… Exemples à copier : [boîte à outils](https://makerspace-amiens.github.io/portfolio-theme/docs/boite-a-outils/).
+Photos, mesures, graphiques… Exemples à copier : [boîte à outils](https://makerspace-amiens.fr/portfolio-theme/docs/boite-a-outils/).
 
 ## Ce que j'en retiens
 

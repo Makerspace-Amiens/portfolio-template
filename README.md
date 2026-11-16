@@ -2,7 +2,7 @@
 
 Modèle de site personnel pour les élèves ingénieurs : **accueil, qui suis-je + CV, projets en cartes, blog / journal de bord, documentation avec table des matières, et radar de compétences justifiées par les projets.**
 
-📖 **Guide pas à pas, démonstration et boîte à outils : <https://makerspace-amiens.github.io/portfolio-theme/>**
+📖 **Guide pas à pas, démonstration et boîte à outils : <https://makerspace-amiens.fr/portfolio-theme/>**
 
 ## Démarrer en 3 minutes
 
