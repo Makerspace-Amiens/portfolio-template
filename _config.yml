@@ -10,6 +10,8 @@
 title: "Prénom Nom"                       # nom affiché dans la barre du haut
 description: "Portfolio d'élève ingénieur·e — projets, compétences et journal de bord"
 lang: fr
+couleur: rouge                            # rouge, bleu, vert, violet, orange, turquoise, rose, gris
+                                          # ou un code entre guillemets : "#0057b8" (partie 11 du guide)
 
 # --- Adresse du site -------------------------------------------------
 # Cas 1 : ton dépôt s'appelle  pseudo.github.io  -> baseurl: ""
@@ -37,7 +39,6 @@ author:
 
 # --- Thème (ne pas modifier sauf consigne de l'enseignant) -------------
 remote_theme: Makerspace-Amiens/portfolio-theme@v1.0.0
-# theme_color: "#ef2e31"                  # couleur principale (optionnel)
 
 plugins:
   - jekyll-remote-theme
