@@ -8,10 +8,10 @@
 
 # --- Identité du site ------------------------------------------------
 title: "Prénom Nom"                       # nom affiché dans la barre du haut
-description: "Portfolio d'élève ingénieur·e — projets, compétences et journal de bord"
+description: "Portfolio d'élève ingénieur·e — projets, documentation et journal de bord"
 lang: fr
 couleur: rouge                            # rouge, bleu, vert, violet, orange, turquoise, rose, gris
-                                          # ou un code entre guillemets : "#0057b8" (partie 11 du guide)
+                                          # ou un code entre guillemets : "#0057b8" (partie 10 du guide)
 
 # --- Adresse du site -------------------------------------------------
 # Cas 1 : ton dépôt s'appelle  pseudo.github.io  -> baseurl: ""
@@ -38,7 +38,7 @@ author:
       url: "mailto:prenom.nom@etu.unilasalle.fr"
 
 # --- Thème (ne pas modifier sauf consigne de l'enseignant) -------------
-remote_theme: Makerspace-Amiens/portfolio-theme@v1.0.0
+remote_theme: Makerspace-Amiens/portfolio-theme@v26.11.16-02
 
 plugins:
   - jekyll-remote-theme

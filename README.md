@@ -1,6 +1,6 @@
 # Construis ton site — modèle de portfolio MakerSpace UniLaSalle Amiens
 
-Modèle de site personnel pour les élèves ingénieurs : **accueil, qui suis-je + CV, projets en cartes, blog / journal de bord, documentation avec table des matières, et radar de compétences justifiées par les projets.**
+Modèle de site personnel pour les élèves ingénieurs : **accueil, qui suis-je + CV, projets en cartes, blog / journal de bord, et documentation avec table des matières.**
 
 📖 **Guide pas à pas, démonstration et boîte à outils : <https://makerspace-amiens.fr/portfolio-theme/>**
 
@@ -22,7 +22,6 @@ Ton site est en ligne à `https://ton-pseudo.github.io` après 1 à 2 minutes.
 | Ajouter un projet | un fichier dans `_projets/` |
 | Publier une news / un journal | `_posts/AAAA-MM-JJ-titre.md` |
 | Écrire une doc | un fichier dans `_docs/` |
-| Me positionner sur mes compétences | `_data/competences.yml` |
 
 Chaque dossier contient un exemple à copier ou à remplacer.
 

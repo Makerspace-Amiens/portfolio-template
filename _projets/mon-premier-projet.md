@@ -8,7 +8,6 @@ statut: "En cours"               # En cours / Terminé / En pause…
 cadre: "Projet I1 — MakerSpace"
 equipe: "4 personnes"
 tags: [robotique, électronique]  # servent aux filtres de la page Projets
-competences: [C1, C2]            # identifiants de _data/competences.yml
 ---
 
 ## Contexte
@@ -17,7 +16,7 @@ Pourquoi ce projet ? Dans quel cadre (cours, club, perso) ? Quel était le besoi
 
 ## Mon rôle
 
-Ce que **j'ai** fait personnellement dans l'équipe : c'est ce qui justifie tes compétences.
+Ce que **j'ai** fait personnellement dans l'équipe : c'est ce qui montre ce que tu sais faire.
 
 ## Démarche
 

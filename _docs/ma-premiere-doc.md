@@ -3,7 +3,6 @@ title: "Ma première doc"
 description: "Une fiche pratique : ce que j'ai appris et que je veux pouvoir retrouver."
 section: "Fabrication"   # groupe dans le menu de gauche
 nav_order: 10            # ordre dans le menu (plus petit = plus haut)
-competences: [C2]
 ---
 
 ## Prérequis
