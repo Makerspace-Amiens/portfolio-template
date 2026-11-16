@@ -31,5 +31,5 @@ langues:
   - langue: "Anglais"
     niveau: "B2"
 
-outils: ["Fusion 360", "KiCad", "Python"]
+outils: ["Onshape", "KiCad", "Python"]
 interets: ["Robotique", "Impression 3D"]
